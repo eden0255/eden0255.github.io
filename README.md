@@ -15,6 +15,7 @@ Paper Kit 2 has a PRO version with a huge number of components, sections and exa
 * [Versions](#versions)
 * [Demo](#demo)
 * [Quick Start](#quick-start)
+* [Deploy](#deploy)
 * [Documentation](#documentation)
 * [File Structure](#file-structure)
 * [Browser Support](#browser-support)
@@ -49,6 +50,12 @@ We've also included an optional Gulp file to help you get started with theme cus
 4.  You will find all the branding colors inside `assets/scss/paper-kit/_variables.scss`. You can change them with a `HEX` value or with other predefined variables.
 5.  Run in terminal `gulp compile-scss` for a single compilation or `gulp watch` for continous compilation of the changes that you make in `*.scss` files. This command should be run in the same folder where `gulpfile.js` and `package.json` are located
 6.  Run in terminal `gulp open-app` for opening the Presentation Page (default) of the product.
+
+## Deploy
+
+:rocket: You can deploy your own version of the template to Genezio with one click:
+
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/paper-kit-2&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
 
 ## Documentation
 The documentation for the Paper Kit 2 is hosted at our [website](https://demos.creative-tim.com/paper-kit-2/docs/1.0/getting-started/introduction.html).
